@@ -1,0 +1,5 @@
+{
+  "cSpell.words": ["springbootquickstart"],
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.compile.nullAnalysis.mode": "automatic"
+}
